@@ -67,4 +67,9 @@ public class Main {
             }
         }
     }
+    /*
+    Exception in thread "main" java.lang.IndexOutOfBoundsException: Source does not fit in dest
+	at java.base/java.util.Collections.copy(Collections.java:561)
+	at section12.Main.main(Main.java:49)
+     */
 }
